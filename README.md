@@ -1,1 +1,1 @@
-# rsschool-cv
+https://alexeybloodless1978.github.io/rsschool-cv/cv
