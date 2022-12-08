@@ -1,6 +1,6 @@
 # Alexey Beskrovny
 
-(/rsschool-cv/myphoto.jpg) 
+![](\rsschool-cv\myphoto.jpg) 
 
 ## CONTACT ME
 
